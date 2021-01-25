@@ -1,0 +1,5 @@
+#Name     #Marke    #Inventar-Nr.    #Jahr  
+Topf Blumolf 123 1999
+Kocher Satoshi 123123 20020
+Duden Duden 93284 05
+kochen satoshi 213 12321

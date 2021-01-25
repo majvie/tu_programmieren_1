@@ -1,0 +1,26 @@
+/* Definition von Konstanten */
+const double PI = 3.14159
+
+/* Definition der Variablen */
+double hauptachse;
+double nebenachse;
+double flaeche;
+const double flaeche_inkreis;
+double flaeche_umkreis;
+
+/* Wertezuweisungen */
+hauptachse = 3.9;
+nebenachse = 1.4;
+
+/* Berechnungen */
+flaeche = hauptachse * nebenachse * Pi / 4.0;
+flaeche_inkreis == nebenachse * nebenachse * PI;
+flaeche_umkreis = hauptachse * hauptachse * PI;
+
+/* Ausgabe */
+printf("Ellipse:\n");
+printf("Laenge der %s = %f\n", "Hauptachse", hauptachse_1);
+printf("Laenge der %c = %f\n", "Nebenachse", nebenachse_1);
+printf("Flaeche = %ld\n", flaeche_1);
+printf("Flaeche Inkreis = %lf\n", flaeche_inkreis);
+printf("Flaeche Umkreis = %lf\n", flaeche_umkreis);
